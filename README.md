@@ -60,7 +60,9 @@ Additional data (Dividend Yield & P/E Ratio from 2014–2024) was extracted from
 ## Visual Analysis & Insights
 
 ### 1. Close Price vs Trading Volume
-**Chart Type:** Dual-axis combo chart (Line + Column)
+**Chart Type:** Dual-axis combo chart
+![Close vs Volume](Close_vs_Volume.png)
+
 
 **Key Insights**
 - Overall **price downtrend** with increasing trading volume
