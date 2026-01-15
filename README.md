@@ -145,9 +145,9 @@ Additional data (Dividend Yield & P/E Ratio from 2014–2024) was extracted from
 
 ## Portfolio Performance Analysis
 
-![Yearly_Portfolio_excel](Yearly_Portfolio_excel.png)
-
 ![Portfolio_excel](Portfolio_excel.png)
+
+![Portfolio](Portfolio.png)
 
 ### Buy-and-Hold Strategy (2024)
 - Initial Portfolio: $1,000
