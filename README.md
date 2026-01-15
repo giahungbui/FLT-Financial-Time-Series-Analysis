@@ -151,7 +151,7 @@ Additional data (Dividend Yield & P/E Ratio from 2014–2024) was extracted from
 
 ### Buy-and-Hold Strategy (2024)
 - Initial Portfolio: $1,000
-- Shares Purchased: 48 * $20.45
+- Shares Purchased: 48 x $20.45
 - Portfolio Value (31/12/2024): $838.24
 - **Annual Return:** −16.18%
 
@@ -164,7 +164,7 @@ Additional data (Dividend Yield & P/E Ratio from 2014–2024) was extracted from
 ![Single_Trade](Single_Trade.png)
 
 - Buy: 04/06/2024 - 53 x $18.80 = $996.40
-- Sell: 23/07/2024 - 53x $23.01 = $1219.53
+- Sell: 23/07/2024 - 53 x $23.01 = $1219.53
 - **Profit:** +22.39%
 
 ![Single_Trade_excel](Single_Trade_excel.png)
