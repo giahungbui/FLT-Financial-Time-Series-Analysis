@@ -178,7 +178,7 @@ Each visualization was optimized through axis rescaling, trend lines, annotation
 ---
 
 ## Tools
-- Microsoft Excel / Tableau
+- Microsoft Excel 
 - Morningstar Data Analysis Platform
 
 
