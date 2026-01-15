@@ -78,6 +78,7 @@ Additional data (Dividend Yield & P/E Ratio from 2014–2024) was extracted from
 
 ### 2. Stock Price Movement (OHLC)
 **Chart Type:** Candlestick chart
+![Stock Movement](Stock_Movement.png)
 
 **Key Trends**
 - Early-year upward momentum followed by long-term decline
@@ -93,6 +94,7 @@ Additional data (Dividend Yield & P/E Ratio from 2014–2024) was extracted from
 
 ### 3. Market Capitalisation vs Shares on Issue
 **Chart Type:** Dual-axis combo chart
+![Capital_vs_Shares](Capital_vs_Shares.png)
 
 **Key Insights**
 - Shares on issue increased gradually
@@ -105,7 +107,11 @@ Additional data (Dividend Yield & P/E Ratio from 2014–2024) was extracted from
 ---
 
 ### 4. Dividend Yield Analysis (2014–2024)
+
+![DY_excel](DY_excel.png)
+
 **Chart Type:** Dual-axis combo chart
+![DY](DY.png)
 
 **Key Observations**
 - Strong dividends before 2020
@@ -116,8 +122,10 @@ Additional data (Dividend Yield & P/E Ratio from 2014–2024) was extracted from
 ---
 
 ### 5. Price-to-Earnings (P/E) Ratio Analysis
-**Chart Type:** Line chart
+![PE_excel](PE_excel.png)
 
+**Chart Type:** Line chart
+![PE](PE.png)
 **Insights**
 - Peak P/E of 22.61 in 2018 (high growth expectations)
 - Negative P/E from 2020–2023 indicates net losses
@@ -126,6 +134,10 @@ Additional data (Dividend Yield & P/E Ratio from 2014–2024) was extracted from
 ---
 
 ## Portfolio Performance Analysis
+
+![Yearly_Portfolio_excel](Yearly_Portfolio_excel.png)
+
+![Portfolio](Portfolio.png)
 
 ### Buy-and-Hold Strategy (2024)
 - Initial Portfolio: $1,000
@@ -138,19 +150,25 @@ Additional data (Dividend Yield & P/E Ratio from 2014–2024) was extracted from
 ---
 
 ### Single Trade Strategy (Max Profit)
+![Single_Trade](Single_Trade.png)
 - Buy: 04/06/2024 @ $18.80
 - Sell: 23/07/2024 @ $23.01
 - **Profit:** +22.39%
+
+![Single_Trade_excel](Single_Trade_excel.png)
 
 This trade captured the strongest upward swing of the year.
 
 ---
 
 ### Multiple Trades Strategy
+
+![Multi_Trades](Multi_Trades.png)
+
 - Identified 4 major trading opportunities
 - Capital grew from $1,000 → $1,797.75
 - **Total Return:** +127.13%
-
+![Multi_Trades_excel](Multi_Trades_excel.png)
 Multiple trades significantly outperformed buy-and-hold.
 
 ---
